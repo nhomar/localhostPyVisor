@@ -20,4 +20,11 @@ It is a very simple client to manage your localhost account of emails for testin
 Features
 --------
 
+* Read the file and print the content.
 * TODO
+* Make installable the main script.
+* Implement a way to manage local mailboxes to save disc on odoo and use it as a catchall.
+http://pymotw.com/2/mailbox/
+* Read the body.
+* Document for Linux and document how to run it.
+
