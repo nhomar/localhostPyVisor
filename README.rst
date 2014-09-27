@@ -11,7 +11,6 @@ Localhost Email Visor
 .. image:: https://pypip.in/d/localhostPyVisor/badge.png
         :target: https://pypi.python.org/pypi/localhostPyVisor
 
-
 It is a very simple client to manage your localhost account of emails for testing purpose
 
 * Free software: BSD license
@@ -23,8 +22,8 @@ Features
 * Read the file and print the content.
 * TODO
 * Make installable the main script.
-* Implement a way to manage local mailboxes to save disc on odoo and use it as a catchall.
-http://pymotw.com/2/mailbox/
+* Implement a way to manage local mailboxes to save disc on odoo and use it as a catchall_.
 * Read the body.
 * Document for Linux and document how to run it.
 
+.. _catchall: http://pymotw.com/2/mailbox/
